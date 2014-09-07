@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Contact</string>
+    <string name="action_settings">Settings</string>
+    <string name="lb_first_name">First Name:</string>
+    <string name="lb_last_name">Last Name:</string>
+    <string name="lb_gender">Gender:</string>
+    <string name="lb_email">Email:</string>
+    <string name="lb_phone">Phone:</string>
+    <string name="lb_birthday">Birthday:</string>
+    <string name="first_name">Jamie</string>
+    <string name="last_name">Yiw</string>
+    <string name="gender">Male</string>
+    <string name="birthday">03/08/1983</string>
+    <string name="email">jamie.yiw@gmail.com</string>
+    <string name="phone">+64238092843</string>
+</resources>
